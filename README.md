@@ -1,0 +1,2 @@
+# static_facebook_page
+facebook_static_page
